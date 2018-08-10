@@ -1,0 +1,8 @@
+user:
+  config:
+    enabled: true
+    age: 18
+    name: demo-spring-boot-starter
+    details:
+      info: is a framework
+      school: spring
